@@ -1,0 +1,16 @@
+  projName: "1.VT-Network"
+  children:
+    - projName: "1.1.Vt-hub"
+    - projName: "1.2.VT-infra"
+      children:
+        - projName: '1.2.1.Vt-streamax'
+        - projName: '1.2.2.VT-reporting'
+    - projName: '1.3'
+    - projName: '1.4'
+      children:
+        - projName: 1.4.1
+        - projName: 1.4.2
+          children:
+            - projName: 1.4.2.1
+            - projName: 1.4.2.2
+        - projName: 1.4.3

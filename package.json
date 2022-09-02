@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tree-model": "^1.0.7",
+    "yaml": "^2.1.1"
+  }
+}
